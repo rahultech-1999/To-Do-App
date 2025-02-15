@@ -19,4 +19,4 @@ mongoose.connect('mongodb+srv://rahul20587:AHHBql6aMtbt5Tn5@cluster0.gjlpcjq.mon
 
 app.use("/api", routes);
 
-app.listen(PORT, () => console.log(`Listenings temp at ${PORT}...`));
+app.listen(PORT, () => console.log(`Listenings temp1 at ${PORT}...`));
